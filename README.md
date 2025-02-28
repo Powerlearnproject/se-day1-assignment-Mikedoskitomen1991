@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-1) Explain what software engineering is and discuss its importance in the technology industry.
+Explain what software engineering is and discuss its importance in the technology industry.
 
 WHAT IS SOFTWARE ENGINEERING?
 Software engineering is the systematic application of engineering principles to the design, development, testing, deployment, and maintenance of software. It involves using structured processes, methodologies, and best practices to create high-quality software that meets user needs and performs efficiently and reliably.
@@ -32,6 +32,7 @@ Helps in developing complex systems like banking software and autonomous vehicle
 
 
 
+
 Identify and describe at least three key milestones in the evolution of software engineering:Key Milestones in the Evolution of Software Engineering
 
 The Birth of Software Engineering (1968)
@@ -49,6 +50,7 @@ The Agile Manifesto was published in 2001, shifting software development from ri
 Agile emphasizes collaboration, adaptability, and customer feedback, enabling faster delivery and continuous improvement.
 Agile methodologies, including Scrum, Kanban, and Extreme Programming (XP), have since dominated modern software development practices, making teams more efficient and responsive to change.
 These milestones have significantly shaped the way software is developed, improving efficiency, quality, and adaptability in the ever-evolving tech landscape.
+
 
 
 
@@ -94,6 +96,7 @@ Each phase plays a crucial role in ensuring the development of reliable, efficie
 
 
 
+
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 Waterfall is ideal for structured, predictable projects, while Agile is best for fast-changing, customer-driven environments. Choosing the right methodology depends on project requirements, flexibility needs, and stakeholder involvement.
@@ -108,6 +111,7 @@ When to Use Agile:
 Startups and Product Development – Building apps or software where user feedback is crucial (e.g., mobile apps, SaaS platforms).
 Software with Evolving Requirements – Web applications, e-commerce platforms that require frequent updates.
 Customer-Centric Projects – Businesses that rely on user testing and feedback to refine their product (e.g., social media platforms, fintech applications).
+
 
 
 
@@ -153,6 +157,7 @@ A well-coordinated team leads to successful software products that meet both use
 
 
 
+
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 Importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in Software Development
@@ -186,6 +191,7 @@ Subversion (SVN): A centralized VCS used in enterprise environments.
 Mercurial: A distributed VCS similar to Git but with a different workflow.
 
 Both IDEs and VCS are essential for efficient software development. IDEs improve coding speed, debugging, and project management, while VCS ensures collaboration, version tracking, and code safety. Together, they enhance software development efficiency and maintainability.
+
 
 
 
@@ -238,6 +244,8 @@ Regularly update dependencies and use security tools (e.g., OWASP ZAP, SonarQube
 Conduct security audits and penetration testing to identify and fix vulnerabilities.
 
 
+
+
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
     
 Testing is a critical part of software development to ensure reliability, functionality, and performance. The four primary types of testing are:
@@ -286,6 +294,7 @@ Acceptance Testing guarantees the software meets user requirements.
 By combining these testing methods, developers can deliver robust, secure, and high-quality software that meets business and user needs.
 
 
+
 #PART 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models
@@ -328,7 +337,7 @@ Ensures structured, detailed answers.
 Prompt engineering is a crucial skill for maximizing the effectiveness of AI models. By crafting well-structured and precise prompts, users can enhance AI’s usability across various fields, making interactions more efficient and valuable.
 
 
-12) Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Example of a Vague Prompt:
 
