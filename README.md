@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
+**Explain what software engineering is and discuss its importance in the technology industry**
 
 WHAT IS SOFTWARE ENGINEERING?
 Software engineering is the systematic application of engineering principles to the design, development, testing, deployment, and maintenance of software. It involves using structured processes, methodologies, and best practices to create high-quality software that meets user needs and performs efficiently and reliably.
@@ -33,7 +33,7 @@ Helps in developing complex systems like banking software and autonomous vehicle
 
 
 
-Identify and describe at least three key milestones in the evolution of software engineering:Key Milestones in the Evolution of Software Engineering
+**Identify and describe at least three key milestones in the evolution of software engineering: Key Milestones in the Evolution of Software Engineering**
 
 The Birth of Software Engineering (1968)
 The term software engineering was first introduced at the NATO Software Engineering Conference in 1968.
@@ -54,7 +54,7 @@ These milestones have significantly shaped the way software is developed, improv
 
 
 
-List and briefly explain the phases of the Software Development Life Cycle:
+**List and briefly explain the phases of the Software Development Life Cycle**
 
 The Software Development Life Cycle (SDLC) is a structured process that guides the development of high-quality software. It consists of several key phases:
 
@@ -97,7 +97,7 @@ Each phase plays a crucial role in ensuring the development of reliable, efficie
 
 
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+**Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate**
 
 Waterfall is ideal for structured, predictable projects, while Agile is best for fast-changing, customer-driven environments. Choosing the right methodology depends on project requirements, flexibility needs, and stakeholder involvement.
 
@@ -115,7 +115,7 @@ Customer-Centric Projects – Businesses that rely on user testing and feedback 
 
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+**Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team**
 
 ROLES AND RESPONSIBILITIES OF A SOFTWARE ENGINEERING TEAM
 
@@ -158,9 +158,8 @@ A well-coordinated team leads to successful software products that meet both use
 
 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-Importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in Software Development
+**Explain the Importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in Software Development. Give examples of each**
 
 Integrated Development Environments (IDEs)
 Definition: An IDE is a software suite that provides comprehensive tools for software development, including a code editor, debugger, compiler, and automation tools.
@@ -195,7 +194,7 @@ Both IDEs and VCS are essential for efficient software development. IDEs improve
 
 
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+**What are some common challenges faced by software engineers? Provide strategies to overcome these challenges**
 
 Software engineers face various challenges, from debugging to managing deadlines and security risks. However, by leveraging best practices, staying updated with industry trends, and using collaboration tools, they can effectively overcome these obstacles and build high-quality software.
 
@@ -246,7 +245,7 @@ Conduct security audits and penetration testing to identify and fix vulnerabilit
 
 
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+**Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance**
     
 Testing is a critical part of software development to ensure reliability, functionality, and performance. The four primary types of testing are:
 
@@ -295,9 +294,9 @@ By combining these testing methods, developers can deliver robust, secure, and h
 
 
 
-#PART 2: Introduction to AI and Prompt Engineering
+**#PART 2: Introduction to AI and Prompt Engineering**
 
-Define prompt engineering and discuss its importance in interacting with AI models
+**Define prompt engineering and discuss its importance in interacting with AI models**
 
 WHAT IS PROMPT ENGINEERING?
 Prompt engineering is the practice of designing and refining input prompts to effectively interact with AI models, such as ChatGPT, to achieve accurate, relevant, and desired outputs. It involves structuring prompts in a way that maximizes the model’s understanding and optimizes responses based on the intended use case.
@@ -337,7 +336,7 @@ Ensures structured, detailed answers.
 Prompt engineering is a crucial skill for maximizing the effectiveness of AI models. By crafting well-structured and precise prompts, users can enhance AI’s usability across various fields, making interactions more efficient and valuable.
 
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+**Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective**
 
 Example of a Vague Prompt:
 
