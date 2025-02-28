@@ -4,6 +4,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 **Explain what software engineering is and discuss its importance in the technology industry**
+
 WHAT IS SOFTWARE ENGINEERING?
 Software engineering is the systematic application of engineering principles to the design, development, testing, deployment, and maintenance of software. It involves using structured processes, methodologies, and best practices to create high-quality software that meets user needs and performs efficiently and reliably.
 
@@ -96,9 +97,11 @@ Each phase plays a crucial role in ensuring the development of reliable, efficie
 
 
 **Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate**
+
 Waterfall is ideal for structured, predictable projects, while Agile is best for fast-changing, customer-driven environments. Choosing the right methodology depends on project requirements, flexibility needs, and stakeholder involvement.
 
 Appropriate Scenarios for Each Methodology:
+
 When to Use Waterfall:
 Government or Regulatory Projects – Strict compliance and documentation are required (e.g., defense, healthcare software).
 Large-Scale Infrastructure Software – Banking systems, airline booking platforms, where requirements are fixed.
